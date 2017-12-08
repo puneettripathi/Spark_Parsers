@@ -1,9 +1,11 @@
 # Spark_Parsers
 ### Parsers for various kinds of delimited files
 * Tab Delimited - read_tab_files.scala
+* Fixed width Columns Parser - fixed_width_file_parser.py
 
 ### Script to copy files from an HDFS dir-subdirs to a Destination directory
 * copy_files_in_hdfs.py
+
 
 
 #### I had to spend time in finding ways to parse various kinds of file to ingest in hadoop
