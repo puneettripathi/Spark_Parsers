@@ -2,6 +2,7 @@
 ### Parsers for various kinds of delimited files
 * Tab Delimited - read_tab_files.scala
 * Fixed width Columns Parser - fixed_width_file_parser.py
+* Zip File Parser - parse_zip_file.scala
 
 ### Script to copy files from an HDFS dir-subdirs to a Destination directory
 * copy_files_in_hdfs.py
